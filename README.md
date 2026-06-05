@@ -13,6 +13,19 @@ Backend API for Mini E-Wallet built with Laravel 12 and Laravel Sanctum.
 
 ## Installation
 
+## Clone Repository
+
+```bash
+git clone https://github.com/Oradra19/mywalletbe.git
+```
+
+## Install Dependencies
+
+```bash
+composer install
+```
+
+
 ### 1. Install Dependencies
 
 ```bash
